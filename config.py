@@ -1,3 +1,3 @@
-TOKEN = '7663571733:AAEXjpeACBnpP6Tq7e_afXJfRBtwkAA_cMo'
+TOKEN = ''
 USER_GROUPS_FILE = 'data/user_groups.txt'
 
